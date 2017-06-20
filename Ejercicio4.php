@@ -23,6 +23,10 @@
 			echo "NO VA FUNCIONAR 6!!!!!";
       echo "NO VA FUNCIONAR 7!!!!!";
       echo "NO VA FUNCIONAR 8!!!!!";
+      echo "NO VA FUNCIONAR 7!!!!!";
+      echo "NO VA FUNCIONAR 8!!!!!";
+      echo "Los pollitos dicen pio pio cuando tienen sed , cuando tienen calor";
+      echo "el papa gallo busca la cebada y el trigo y les da unas botellas para que ya no digan pio pio";
               }
   	}
 ?>
