@@ -1,4 +1,4 @@
-<form method="post">
+﻿<form method="post">
     	Ingrese Numero:<br>
     	<input type="text" name="txtNro"> <br>
     	<input type="submit" value="Enviar">
@@ -23,6 +23,11 @@
 			echo "NO VA FUNCIONAR 6!!!!!";
       echo "NO VA FUNCIONAR 7!!!!!";
       echo "NO VA FUNCIONAR 8!!!!!";
+
+		      echo "*******************************";
+		      echo "*******************************";
+		      echo "*******************************";
+
               }
   	}
 ?>
