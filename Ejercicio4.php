@@ -21,6 +21,8 @@
 			echo "NO VA FUNCIONAR 4!!!!!";
 			echo "NO VA FUNCIONAR 5!!!!!";
 			echo "NO VA FUNCIONAR 6!!!!!";
+      echo "NO VA FUNCIONAR 7!!!!!";
+      echo "NO VA FUNCIONAR 8!!!!!";
               }
   	}
 ?>
