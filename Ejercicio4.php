@@ -13,7 +13,9 @@
   	{
 		if ($nro % 2 == 0)
           			echo "<br>$nro"." Es un número par.";
-      		else
+      		else{
           			echo "<br>$nro"." Es un número impar.";
+                echo "NO VA FUNCIONAR !!!!!";
+              }
   	}
 ?>
