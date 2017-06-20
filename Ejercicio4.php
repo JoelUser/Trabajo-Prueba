@@ -15,7 +15,12 @@
           			echo "<br>$nro"." Es un número par.";
       		else{
           			echo "<br>$nro"." Es un número impar.";
-                echo "NO VA FUNCIONAR !!!!!";
+			echo "NO VA FUNCIONAR 1!!!!!";
+			echo "NO VA FUNCIONAR 2!!!!!";
+			echo "NO VA FUNCIONAR 3!!!!!";
+			echo "NO VA FUNCIONAR 4!!!!!";
+			echo "NO VA FUNCIONAR 5!!!!!";
+			echo "NO VA FUNCIONAR 6!!!!!";
               }
   	}
 ?>
